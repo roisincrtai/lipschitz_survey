@@ -1,0 +1,7 @@
+__pycache__
+.ipynb_checkpoints
+__pycache__
+*.swp
+*.bak
+.DS_Store
+Untitled*.ipynb
